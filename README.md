@@ -1,0 +1,3 @@
+Pagina dedicada a la excibicion y venta de productos realizados artesanalmente en nuetra empresa de impresion 3D.
+Permitiendole al usuario conocer nuestros productos y poder personalizarlo ya sea con algun color o medida especifica o agregarle un nombre a eleccion.
+En la seccion de productos destacados se le agrego la opcion para poder hacer uso de un carrito de compras para cumplir con la consigna establecida en el trabajo integrador final.
